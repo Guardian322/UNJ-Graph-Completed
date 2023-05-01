@@ -1,0 +1,24 @@
+﻿  camera.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.h(1,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.cpp(46,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.cpp(50,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.cpp(57,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.cpp(61,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.cpp(65,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  glut_backend.cpp
+  lighting_technique.cpp
+  main.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\camera.h(1,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  math_3d.cpp
+  pipeline.cpp
+  technique.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\technique.cpp(47,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\texture.cpp(26,86): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\engGraphLab3_2\texture.cpp(26,131): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  Создание кода
+  380 of 388 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  engGraphLab3_2.vcxproj -> C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK20\x64\Release\engGraphLab3_2.exe

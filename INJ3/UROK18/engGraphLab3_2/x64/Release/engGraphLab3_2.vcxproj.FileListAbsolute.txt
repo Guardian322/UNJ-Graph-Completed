@@ -1,0 +1,4 @@
+C:\Users\neket\source\repos\engGraphLab3_2\engGraphLab3_2\x64\Release\engGraphLab3_2.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK5\engGraphLab3_2\x64\Release\engGraphLab3_2.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK2.1\engGraphLab3_2\x64\Release\engGraphLab3_2.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK18\engGraphLab3_2\x64\Release\engGraphLab3_2.vcxproj.CopyComplete
