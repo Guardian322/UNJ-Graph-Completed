@@ -1,0 +1,8 @@
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK2\x64\Release\UROK2.exe
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK2\x64\Release\UROK2.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK2\x64\Release\glew32.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK2\x64\Release\freeglut.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK17\x64\Release\UROK2.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK17\x64\Release\UROK2.exe
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK17\x64\Release\glew32.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ3\UROK17\x64\Release\freeglut.dll

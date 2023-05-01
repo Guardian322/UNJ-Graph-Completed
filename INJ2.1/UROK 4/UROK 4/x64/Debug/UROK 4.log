@@ -1,0 +1,6 @@
+﻿  math_3d.cpp
+C:\Users\neket\Desktop\projects\visual\INJ2.1\INJ2.1\math_3d.h(25,27): warning C4305: инициализация: усечение из "double" в "float"
+  pipeline.cpp
+C:\Users\neket\Desktop\projects\visual\INJ2.1\INJ2.1\math_3d.h(25,27): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  UROK 4.vcxproj -> C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ2.1\4 Urok\UROK 4\x64\Debug\UROK 4.exe
